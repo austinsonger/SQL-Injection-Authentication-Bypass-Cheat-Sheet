@@ -1,7 +1,7 @@
 # SQL Injection Authentication Bypass (Cheat Sheet)
 
 
-![](/screenshot/01.png)
+![](/screenshot/01.jpg)
 
 ![](/screenshot/02.png)
 
